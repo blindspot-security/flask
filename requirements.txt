@@ -106,7 +106,7 @@ tailer==0.4.1
 testresources==2.0.1
 texttable==1.6.4
 toml==0.10.2
-urllib3==2.0.1
+urllib3==2.0.3
 uvicorn==0.18.2
 virtualenv==20.15.1
 websocket-client==0.59.0
