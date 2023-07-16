@@ -29,6 +29,7 @@ dependencies = [
 ]
 dynamic = ["version"]
 
+
 [project.urls]
 Donate = "https://palletsprojects.com/donate"
 Documentation = "https://flask.palletsprojects.com/"
